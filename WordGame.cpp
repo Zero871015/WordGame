@@ -1,4 +1,4 @@
-// Name: B10615032
+// Name: Zero871015
 // Date: 2018/05/15
 // Last Update: 2018/05/15
 // Problem statement: Word Game
