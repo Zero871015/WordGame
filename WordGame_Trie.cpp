@@ -1,6 +1,6 @@
 // Name: B10615032
 // Date: 2018/05/15
-// Last Update: 2018/05/15
+// Last Update: 2018/05/18
 // Problem statement: Word Game
 
 #include <iostream>
@@ -13,7 +13,7 @@ using namespace std;
 //Define the table size.
 #define N 4
 
-//A kind of search tree¡Xan ordered tree data structure that
+//A kind of search treeÂ¡Xan ordered tree data structure that
 //is used to store a dynamic set or associative array 
 //where the keys are usually strings.
 //More information refer Wiki:Trie.
